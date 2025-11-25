@@ -1,3 +1,7 @@
+# Sara White
+# CSD310
+# Assignment 6.2
+
 import mysql.connector
 from mysql.connector import errorcode
 
